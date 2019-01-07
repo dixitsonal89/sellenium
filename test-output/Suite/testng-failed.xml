@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="SeleniumDemoPackage.BatchFileTest2">
+        <methods>
+          <include name="method2"/>
+          <include name="method1"/>
+        </methods>
+      </class> <!-- SeleniumDemoPackage.BatchFileTest2 -->
+      <class name="SeleniumDemoPackage.BatchFileTest">
+        <methods>
+          <include name="testcase3"/>
+          <include name="testcase2"/>
+        </methods>
+      </class> <!-- SeleniumDemoPackage.BatchFileTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

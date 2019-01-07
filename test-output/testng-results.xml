@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23852" started-at="2019-01-05T15:24:17Z" finished-at="2019-01-05T15:24:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23852" started-at="2019-01-05T15:24:17Z" finished-at="2019-01-05T15:24:41Z">
+      <class name="SeleniumDemoPackage.Testdemo">
+        <test-method status="PASS" signature="launchbrowser()[pri:0, instance:SeleniumDemoPackage.Testdemo@174d20a]" name="launchbrowser" is-config="true" duration-ms="4963" started-at="2019-01-05T20:54:17Z" finished-at="2019-01-05T20:54:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method status="PASS" signature="loginCheck()[pri:0, instance:SeleniumDemoPackage.Testdemo@174d20a]" name="loginCheck" duration-ms="17285" started-at="2019-01-05T20:54:22Z" finished-at="2019-01-05T20:54:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginCheck -->
+        <test-method status="PASS" signature="resgistration()[pri:0, instance:SeleniumDemoPackage.Testdemo@174d20a]" name="resgistration" duration-ms="700" started-at="2019-01-05T20:54:39Z" finished-at="2019-01-05T20:54:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resgistration -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:SeleniumDemoPackage.Testdemo@174d20a]" name="closebrowser" is-config="true" duration-ms="876" started-at="2019-01-05T20:54:40Z" finished-at="2019-01-05T20:54:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- SeleniumDemoPackage.Testdemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
