@@ -1,0 +1,28 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 24AF-7A10
+
+ Directory of C:\Users\sonal dixit
+
+07-01-2019  12:14    <DIR>          .
+07-01-2019  12:14    <DIR>          ..
+28-11-2018  12:45    <DIR>          .eclipse
+07-01-2019  12:01    <DIR>          .p2
+28-11-2018  12:14    <DIR>          .tooling
+17-12-2018  11:58    <DIR>          3D Objects
+17-12-2018  11:58    <DIR>          Contacts
+18-12-2018  22:45    <DIR>          Desktop
+17-12-2018  11:58    <DIR>          Documents
+07-01-2019  11:56    <DIR>          Downloads
+28-11-2018  12:07    <DIR>          eclipse
+28-11-2018  12:45    <DIR>          eclipse-workspace
+17-12-2018  11:58    <DIR>          Favorites
+17-12-2018  11:58    <DIR>          Links
+17-12-2018  11:58    <DIR>          Music
+07-01-2019  11:48    <DIR>          OneDrive
+04-01-2019  17:59    <DIR>          Pictures
+17-12-2018  11:58    <DIR>          Saved Games
+17-12-2018  11:58    <DIR>          Searches
+07-01-2019  12:14                 0 Text1.txt
+17-12-2018  11:58    <DIR>          Videos
+               1 File(s)              0 bytes
+              20 Dir(s)  923,923,234,816 bytes free
